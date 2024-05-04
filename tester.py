@@ -1,8 +1,6 @@
 from urllib.request import urlopen
 from sys import argv, exit
 
-author = 'D4Vinci'
-
 def check(url):
     ''' check given URL is vulnerable or not '''
 
